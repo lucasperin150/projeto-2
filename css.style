@@ -1,0 +1,8 @@
+body {
+background-color: green;
+
+}
+header{
+    border: solid 2px rgba(0,0,0,1);
+}
+
